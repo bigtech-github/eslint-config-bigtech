@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-bigtechplus",
+  "name": "eslint-config-bigtech",
   "version": "0.0.0-development",
   "description": "Bigtech+ style guide",
   "main": "index.js",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bigtech-github/eslint-config-bigtechplus.git"
+    "url": "https://github.com/bigtech-github/eslint-config-bigtech.git"
   },
   "release": {
     "branches": [
